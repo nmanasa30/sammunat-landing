@@ -1,16 +1,47 @@
-# React + Vite
+# 🌱 Sammunat Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sammunat Landing Page is a modern, responsive web application designed to showcase the vision, services, and purpose of the Sammunat platform with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Project Objective
+To build a professional landing page that clearly communicates the platform’s mission and provides an engaging user experience across all devices.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
+- Fully responsive (mobile-first design)
+- Clean and modern UI
+- Structured landing sections
+- Smooth navigation
+- Fast loading performance
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Tech Stack
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 🌐 Live Demo
+🔗 https://sammunat-react-landing.netlify.app
+
+---
+
+## 🚀 Deployment
+- Deployed using **Netlify**
+- Continuous deployment enabled
+- Automatically deploys on every push to GitHub
+
+---
+
+## ▶️ How to Run Locally
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/nmanasa30/sammunat-landing.git
+cd sammunat-landing
